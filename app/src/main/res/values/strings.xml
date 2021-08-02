@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Manager\'s Special</string>
+    <string name="dollar_format">$ %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="error_no_internet">No Internet connection</string>
+    <string name="error_general">An unexpected occurred</string>
+    <string name="product_image_content_desc">product image</string>
+</resources>
